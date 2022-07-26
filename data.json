@@ -1,0 +1,2755 @@
+{
+  "quickActions": [
+    {
+      "special": true,
+      "icon": "card",
+      "text": "Открыть счёт",
+      "link": {
+        "href": "https://www.sberbank.ru/ru/s_m_business/open-accounts"
+      }
+    },
+    {
+      "special": false,
+      "icon": "check",
+      "text": "Зарегистрировать ИП или ООО",
+      "link": {
+        "href": "https://www.sberbank.ru/ru/s_m_business/reg"
+      }
+    },
+    {
+      "special": false,
+      "icon": "bank",
+      "text": "Подобрать кредит для бизнеса",
+      "link": {
+        "href": "https://www.sberbank.ru/ru/s_m_business/onlinecredit"
+      }
+    },
+    {
+      "special": false,
+      "icon": "evotor",
+      "text": "Подключить приём платежей",
+      "link": {
+        "href": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total"
+      }
+    }
+  ],
+  "newOffers": {
+    "cutResponseOffers": null,
+    "cacheRequestInMinutes": 1440,
+    "debugMode": {
+      "isShowCardFromData": false,
+      "cardIndexToShow": 0,
+      "isGetMockRecSysData": false,
+      "testCookieId": ""
+    },
+    "title": "Персональные предложения",
+    "defaultCards": [
+      {
+        "title": "Упростите расчёты с&nbsp;арендаторами",
+        "text": ["Подключите решение для коммерческой недвижимости"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/businessapps/realty",
+        "target": "_self",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/otr_realty/desktop_@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/otr_realty/desktop_@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/otr_realty/desktop_@1x.webp",
+                "2x": "img/offers/rec-sys/otr_realty/desktop_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/otr_realty/tablet_@1x.png",
+                "2x": "img/offers/rec-sys/otr_realty/tablet_@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/otr_realty/tablet_@1x.webp",
+                "2x": "img/offers/rec-sys/otr_realty/tablet_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Увеличивайте продажи в&nbsp;соцсетях",
+        "text": ["Сервисы для приёма оплаты и продвижения товаров и&nbsp;услуг онлайн"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/ecom/social",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/social/desktop_@1x.png",
+            "srcset": {
+              "2x": "img/offers/social/desktop_@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/social/desktop_@1x.webp",
+                "2x": "img/offers/social/desktop_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/social/tablet_@1x.png",
+                "2x": "img/offers/social/tablet_@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/social/tablet_@1x.webp",
+                "2x": "img/offers/social/tablet_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      }
+    ],
+    "cards": [
+      {
+        "id": "1-ZIV01",
+        "title": "Как получить повышенную доходность?",
+        "text": ["Возможно, открыв депозит &#34;Валютный коридор&#34; "],
+        "url": "https://www.sberbank.ru/ru/legal/investments/structured-deposits",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg",
+            "srcset": {
+              "2x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg",
+                "2x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg",
+                "2x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg",
+                "2x": "https://www.sberbank.ru/common/img/uploaded/legal/img/structural-deposits/mobile.jpg"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-ZM4RU",
+        "title": "Откройте аккредитив",
+        "text": ["Защитите сделку по&nbsp;покупке товаров, услуг, акций или недвижимости"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/loc",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/akkred/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/akkred/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/akkred/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/akkred/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/akkred/tablet@1x.png",
+                "2x": "img/offers/rec-sys/akkred/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/akkred/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/akkred/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-RU49NL6",
+        "title": "Получите премиум бизнес-карту Mastercard",
+        "text": [
+          "Повышенный лимит на&nbsp;снятие наличных, бесплатные бизнес-залы и&nbsp;другие привилегии"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/premium-businesscards-master",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/premium_bc/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/premium_bc/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/premium_bc/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/premium_bc/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/premium_bc/tablet@1x.png",
+                "2x": "img/offers/rec-sys/premium_bc/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/premium_bc/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/premium_bc/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GT0",
+        "title": "Откройте депозит",
+        "text": ["С возможностью отзыва или пополнения"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/assetsandinvestment/assets",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/deposits/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/deposits/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/deposits/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/deposits/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/deposits/tablet@1x.png",
+                "2x": "img/offers/rec-sys/deposits/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/deposits/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/deposits/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GXO",
+        "title": "Закажите инкассацию",
+        "text": ["Тариф зависит только от&nbsp;региона, нет скрытых комиссий и&nbsp;платежей"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/inkass",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/inkass/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/inkass/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/inkass/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/inkass/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/inkass/tablet@1x.png",
+                "2x": "img/offers/rec-sys/inkass/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/inkass/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/inkass/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-294EQR2Y",
+        "title": "Узнайте рейтинг своей компании",
+        "text": [
+          "Оценка бизнеса с&nbsp;точки зрения банка, финмониторинга и&nbsp;службы безопасности"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/rating-ul",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/korus_raiting/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/korus_raiting/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_raiting/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/korus_raiting/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_raiting/tablet@1x.png",
+                "2x": "img/offers/rec-sys/korus_raiting/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_raiting/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/korus_raiting/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-HGDJ1PU",
+        "title": "Проверьте контрагента",
+        "text": ["Оценка контрагента на&nbsp;благонадёжность по&nbsp;официальным источникам"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/spk",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/korus_service/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/korus_service/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_service/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/korus_service/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_service/tablet@1x.png",
+                "2x": "img/offers/rec-sys/korus_service/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/korus_service/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/korus_service/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-2G9R4LPG",
+        "title": "Снизьте свой риск блокировки счёта",
+        "text": ["Проверьте бизнес по&nbsp;ключевым показателям и&nbsp;получите рекомендации"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/safe-business",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/sber_raiting_block/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/sber_raiting_block/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sber_raiting_block/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/sber_raiting_block/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sber_raiting_block/tablet@1x.png",
+                "2x": "img/offers/rec-sys/sber_raiting_block/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sber_raiting_block/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/sber_raiting_block/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-2BR3HABO",
+        "title": "Проверьте бизнес по 115-ФЗ",
+        "text": [
+          "Полный отчёт по&nbsp;деятельности бизнеса в&nbsp;соответствии с&nbsp;115-ФЗ и&nbsp;персональная консультация"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/compliance",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/compliance_help/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/compliance_help/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/compliance_help/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/compliance_help/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/compliance_help/tablet@1x.png",
+                "2x": "img/offers/rec-sys/compliance_help/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/compliance_help/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/compliance_help/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-JNGIYCX",
+        "title": "Управляйте складом онлайн",
+        "text": [
+          "Управляйте закупками, остатками и&nbsp;ценами, интегрируйте сервис с&nbsp;онлайн-кассами"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/moya_torgovlya",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/my_trade/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/my_trade/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_trade/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/my_trade/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_trade/tablet@1x.png",
+                "2x": "img/offers/rec-sys/my_trade/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_trade/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/my_trade/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-V0897WV",
+        "title": "Откройте счёт для участия в&nbsp;закупках",
+        "text": ["Без комиссии в&nbsp;день подачи заявки"],
+        "url": "https://www.sberbank.ru/ru/legal/bankingservice/cash/bs_uchastnika_zakupok",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/special_check_trade/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/special_check_trade/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/special_check_trade/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/special_check_trade/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/special_check_trade/tablet@1x.png",
+                "2x": "img/offers/rec-sys/special_check_trade/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/special_check_trade/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/special_check_trade/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-DAFHYND",
+        "title": "Ведите бухгалтерию онлайн",
+        "text": ["Выберите подходящий онлайн-сервис для подготовки отчётности"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/my_buch/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/my_buch/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_buch/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/my_buch/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_buch/tablet@1x.png",
+                "2x": "img/offers/rec-sys/my_buch/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/my_buch/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/my_buch/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-JY0CNWQ",
+        "title": "Бухгалтерия для&nbsp;ИП на&nbsp;УСН&nbsp;6%",
+        "text": [
+          "Подготовка документов по&nbsp;нужным реквизитам, вам&nbsp;&mdash; только подтвердить отправку"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/buch_ip/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/buch_ip/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_ip/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/buch_ip/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_ip/tablet@1x.png",
+                "2x": "img/offers/rec-sys/buch_ip/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_ip/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/buch_ip/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-DDP18DU",
+        "title": "Бухгалтерия на&nbsp;аутсорсе",
+        "text": ["Доверьте ведение бухгалтерии команде профессионалов"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/buch_outsource/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/buch_outsource/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_outsource/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/buch_outsource/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_outsource/tablet@1x.png",
+                "2x": "img/offers/rec-sys/buch_outsource/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/buch_outsource/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/buch_outsource/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-28U0CTPQ",
+        "title": "Заказывайте товары для бизнеса",
+        "text": ["Доставка продуктов, канцелярии или товаров для уборки от&nbsp;СберМаркета"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sbermarket",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/sbermarket/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/sbermarket/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sbermarket/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/sbermarket/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sbermarket/tablet@1x.png",
+                "2x": "img/offers/rec-sys/sbermarket/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/sbermarket/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/sbermarket/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-JNGJROI",
+        "title": "Арендуйте онлайн-кассу Эвотор",
+        "text": ["Готовое решение для приёма платежей"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/kassa/rent",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/evotor_rent/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/evotor_rent/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_rent/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/evotor_rent/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_rent/tablet@1x.png",
+                "2x": "img/offers/rec-sys/evotor_rent/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_rent/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/evotor_rent/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-ASDFAMH",
+        "title": "Купите онлайн-кассу Эвотор",
+        "text": [
+          "Соберите комплект для приёма платежей: кассу, фискальный накопитель, сканер и&nbsp;терминал"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/kassa/buy",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/evotor_buy/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/evotor_buy/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_buy/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/evotor_buy/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_buy/tablet@1x.png",
+                "2x": "img/offers/rec-sys/evotor_buy/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/evotor_buy/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/evotor_buy/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-MP71XI8",
+        "title": "Обратитесь к&nbsp;юристу для бизнеса",
+        "text": ["Устные и&nbsp;письменные консультации без ограничения по&nbsp;времени 24/7"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/lawyer",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/lawyer/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/lawyer/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/lawyer/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/lawyer/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/lawyer/tablet@1x.png",
+                "2x": "img/offers/rec-sys/lawyer/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/lawyer/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/lawyer/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-3WO632R4",
+        "title": "Защитите бизнес от экологических рисков",
+        "text": ["Для компаний, чья работа тесно связана с&nbsp;экологией"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#green-umbrella",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/green_umbrella/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/green_umbrella/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/green_umbrella/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/green_umbrella/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/green_umbrella/tablet@1x.png",
+                "2x": "img/offers/rec-sys/green_umbrella/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/green_umbrella/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/green_umbrella/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-PJ1ZWPY",
+        "title": "Защитите здоровье",
+        "text": ["Страхование вашего здоровья, персонала и&nbsp;членов семьи"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#dms",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/dms/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/dms/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/dms/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/dms/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/dms/tablet@1x.png",
+                "2x": "img/offers/rec-sys/dms/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/dms/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/dms/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-485Z88VO",
+        "title": "Защитите бизнес и&nbsp;персонал",
+        "text": ["Комплексное страхование предприятия и&nbsp;жизни сотрудников"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#defense360",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/defense360/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/defense360/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/defense360/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/defense360/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/defense360/tablet@1x.png",
+                "2x": "img/offers/rec-sys/defense360/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/defense360/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/defense360/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1SXY20EP",
+        "title": "Защитите автомобиль",
+        "text": ["Оформление КАСКО онлайн и&nbsp;без осмотра"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#kasko",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/kasko/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/kasko/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/kasko/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/kasko/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/kasko/tablet@1x.png",
+                "2x": "img/offers/rec-sys/kasko/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/kasko/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/kasko/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-ZYQO0PN",
+        "title": "Защитите оборудование и&nbsp;имущество",
+        "text": ["Страхование от&nbsp;кражи, пожара и&nbsp;стихийных бедствий"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#savebusiness",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/savebusiness/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/savebusiness/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/savebusiness/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/savebusiness/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/savebusiness/tablet@1x.png",
+                "2x": "img/offers/rec-sys/savebusiness/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/savebusiness/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/savebusiness/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1SXY20DC",
+        "title": "Защитите свои достижения",
+        "text": ["Консультация при блокировке счёта и&nbsp;компенсация доходов"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#success",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/success/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/success/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/success/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/success/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/success/tablet@1x.png",
+                "2x": "img/offers/rec-sys/success/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/success/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/success/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-115HHZC",
+        "title": "Откройте расчётный счёт за&nbsp;0&nbsp;₽",
+        "text": ["Без посещения офиса банка"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/rko/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/rko/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rko/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/rko/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rko/tablet@1x.png",
+                "2x": "img/offers/rec-sys/rko/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rko/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/rko/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-HLPSUHX",
+        "title": "Всё для начала бизнеса за&nbsp;0&nbsp;₽",
+        "text": [
+          "Переводы физлицам до&nbsp;300&nbsp;000&nbsp;₽ без комиссии для&nbsp;ИП, бесплатные консультации юриста и&nbsp;другое"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/ease-start/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/ease-start/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ease-start/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/ease-start/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ease-start/tablet@1x.png",
+                "2x": "img/offers/rec-sys/ease-start/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ease-start/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/ease-start/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-2AWV1IFT",
+        "title": "Тем, кто вырос из&nbsp;&laquo;Лёгкого старта&raquo;",
+        "text": [
+          "Включено до&nbsp;10&nbsp;платежей юрлицам в&nbsp;другие банки, самоинкассация, бесплатные СМС"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/gaining-momentum/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/gaining-momentum/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/gaining-momentum/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/gaining-momentum/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/gaining-momentum/tablet@1x.png",
+                "2x": "img/offers/rec-sys/gaining-momentum/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/gaining-momentum/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/gaining-momentum/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GUC",
+        "title": "Приём платежей по&nbsp;картам",
+        "text": ["Комиссия для торговых точек&nbsp;&mdash; от&nbsp;1,6%"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/acquiring/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/acquiring/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/acquiring/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/acquiring/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/acquiring/tablet@1x.png",
+                "2x": "img/offers/rec-sys/acquiring/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/acquiring/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/acquiring/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-115HHYO",
+        "title": "Выпустите бизнес-карту",
+        "text": ["Для сотрудников, оплаты любых расходов бизнеса или с&nbsp;повышенным кешбэком"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/business-card/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/business-card/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-card/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/business-card/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-card/tablet@1x.png",
+                "2x": "img/offers/rec-sys/business-card/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-card/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/business-card/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-EO0QXLI",
+        "title": "Ставка по&nbsp;кредиту ниже на&nbsp;2% годовых",
+        "text": [
+          "Получите сниженную ставку сразу и&nbsp;сохраняйте&nbsp;её, пользуясь сервисами СберБизнеса"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/onlinecredit",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/smart-loan/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/smart-loan/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/smart-loan/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/smart-loan/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/smart-loan/tablet@1x.png",
+                "2x": "img/offers/rec-sys/smart-loan/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/smart-loan/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/smart-loan/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GVO",
+        "title": "Банковская гарантия онлайн",
+        "text": [
+          "Решение&nbsp;&mdash; от&nbsp;3&nbsp;минут на&nbsp;сумму до&nbsp;5&nbsp;млн&nbsp;₽"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/warranty",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/bank-guarantee/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/bank-guarantee/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/bank-guarantee/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/bank-guarantee/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/bank-guarantee/tablet@1x.png",
+                "2x": "img/offers/rec-sys/bank-guarantee/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/bank-guarantee/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/bank-guarantee/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-HLPSULB",
+        "title": "Выпустите кредитную бизнес-карту",
+        "text": ["Льготный период 100&nbsp;дней, лимит до&nbsp;1&nbsp;млн ₽&nbsp;без залога"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/credit-businesscards",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/business-credit-card/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/business-credit-card/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-credit-card/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/business-credit-card/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-credit-card/tablet@1x.png",
+                "2x": "img/offers/rec-sys/business-credit-card/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/business-credit-card/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/business-credit-card/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-CC63LUN",
+        "title": "Подключите платежи онлайн",
+        "text": [
+          "Больше оплаченных заказов на&nbsp;сайте, в&nbsp;приложении, мессенджере и&nbsp;соцсетях"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/internet-acquiring/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/internet-acquiring/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/internet-acquiring/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/internet-acquiring/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/internet-acquiring/tablet@1x.png",
+                "2x": "img/offers/rec-sys/internet-acquiring/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/internet-acquiring/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/internet-acquiring/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1EAUI3HB",
+        "title": "Откройте валютный счёт",
+        "text": ["Работайте с&nbsp;Китаем и&nbsp;получайте льготный валютный контроль"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts/ved",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/ved/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/ved/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/ved/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved/tablet@1x.png",
+                "2x": "img/offers/rec-sys/ved/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/ved/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GVC",
+        "title": "Подайте заявку на&nbsp;оборотный кредит",
+        "text": ["По&nbsp;минимальной ставке&nbsp;11% на&nbsp;сумму от&nbsp;100&nbsp;000&nbsp;₽"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/oborot/",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/oborot/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/oborot/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/oborot/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/oborot/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/oborot/tablet@1x.png",
+                "2x": "img/offers/rec-sys/oborot/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/oborot/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/oborot/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-79LMUVD",
+        "title": "Оформите факторинг",
+        "text": [
+          "Решение по&nbsp;сделке для поставщиков за&nbsp;7&nbsp;часов, отсрочка для покупателей до&nbsp;365 дней"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/factoring",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/factoring/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/factoring/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/factoring/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/factoring/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/factoring/tablet@1x.png",
+                "2x": "img/offers/rec-sys/factoring/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/factoring/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/factoring/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GW0",
+        "title": "Подключите зарплатный проект",
+        "text": ["Выплачивайте зарплату в&nbsp;любой день, без выходных"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/salaryproject",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/salaryproject/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/salaryproject/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/salaryproject/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/salaryproject/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/salaryproject/tablet@1x.png",
+                "2x": "img/offers/rec-sys/salaryproject/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/salaryproject/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/salaryproject/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-115HHZO",
+        "title": "Оформите лизинг",
+        "text": [
+          "Решение за&nbsp;8&nbsp;часов без финансовых документов, дополнительный залог не&nbsp;требуется"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/products/leasing",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/leasing/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/leasing/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/leasing/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/leasing/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/leasing/tablet@1x.png",
+                "2x": "img/offers/rec-sys/leasing/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/leasing/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/leasing/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-415WQ1A",
+        "title": "Оформите страховку",
+        "text": [
+          "Защитите свой бизнес, своих сотрудников, семью, здоровье или машину. Выплаты до&nbsp;15&nbsp;млн&nbsp;₽"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/insurance/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/insurance/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/insurance/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/insurance/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/insurance/tablet@1x.png",
+                "2x": "img/offers/rec-sys/insurance/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/insurance/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/insurance/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-ZYQP07F",
+        "title": "Получите медицинскую консультацию",
+        "text": [
+          "Онлайн и&nbsp;очные приёмы от&nbsp;3600&nbsp;₽ в&nbsp;год. Для вас и&nbsp;сотрудников"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/docdoc",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/docdoc/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/docdoc/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/docdoc/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/docdoc/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/docdoc/tablet@1x.png",
+                "2x": "img/offers/rec-sys/docdoc/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/docdoc/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/docdoc/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1GU0",
+        "title": "Откройте валютный счёт",
+        "text": [
+          "И&nbsp;обменивайте валюту по&nbsp;льготному курсу. Пакет услуг ВЭД за&nbsp;3990&nbsp;₽ в&nbsp;месяц"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts/ved",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/conversion/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/conversion/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/conversion/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/conversion/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/conversion/tablet@1x.png",
+                "2x": "img/offers/rec-sys/conversion/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/conversion/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/conversion/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-18TQ56RU",
+        "title": "Подключите опцию к рублёвому счёту",
+        "text": [
+          "Валютный контроль исходящих платежей на&nbsp;250&nbsp;000&nbsp;₽ без минимальной комиссии за&nbsp;каждый платёж"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/ved_roubles",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/ved_roubles/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/ved_roubles/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved_roubles/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/ved_roubles/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved_roubles/tablet@1x.png",
+                "2x": "img/offers/rec-sys/ved_roubles/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/ved_roubles/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/ved_roubles/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1M43N7R",
+        "title": "Получите бесплатную консультацию по&nbsp;ВЭД",
+        "text": [
+          "Ответим на&nbsp;все вопросы, поможем разобраться в&nbsp;законах и&nbsp;правилах ведения международного бизнеса"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/consultation",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/consultation/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/consultation/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/consultation/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/consultation/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/consultation/tablet@1x.png",
+                "2x": "img/offers/rec-sys/consultation/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/consultation/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/consultation/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1AFS898R",
+        "title": "Получите банковскую гарантию",
+        "text": [
+          "Комиссия от&nbsp;950&nbsp;₽, решение от&nbsp;3&nbsp;минут по&nbsp;гарантиям для госзакупок, срок&nbsp;&mdash; до&nbsp;61&nbsp;месяца"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/warranty",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/warranty/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/warranty/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/warranty/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/warranty/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/warranty/tablet@1x.png",
+                "2x": "img/offers/rec-sys/warranty/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/warranty/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/warranty/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-7KK7FQ",
+        "title": "Выберите решение для ВЭД",
+        "text": [
+          "Откройте расчётный счёт в&nbsp;валюте, подключите пакет услуг, валютный контроль или другие услуги"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/currency-control/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/currency-control/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/currency-control/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/currency-control/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/currency-control/tablet@1x.png",
+                "2x": "img/offers/rec-sys/currency-control/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/currency-control/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/currency-control/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1CA6IU4Y",
+        "title": "Найдите сотрудников на&nbsp;Работе.ру",
+        "text": ["Размещайте одну вакансию, меняйте и&nbsp;редактируйте её&nbsp;без ограничений"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/rabota",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/rabota/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/rabota/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rabota/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/rabota/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rabota/tablet@1x.png",
+                "2x": "img/offers/rec-sys/rabota/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/rabota/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/rabota/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-115ER0K",
+        "title": "Настройте самоинкассацию",
+        "text": [
+          "Вносите наличные на&nbsp;расчётный счёт в&nbsp;банкомате СберБанка по&nbsp;логину и&nbsp;паролю"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/rko/cash",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/cash/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/cash/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/cash/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/cash/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/cash/tablet@1x.png",
+                "2x": "img/offers/rec-sys/cash/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/cash/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/cash/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "id": "1-1OA43KI",
+        "title": "Подключите электронный документооборот",
+        "text": [
+          "Заполняйте квитанции по&nbsp;одному клику, работайте с&nbsp;маркировкой и&nbsp;документами для налоговой"
+        ],
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/e-invoicing",
+        "target": "",
+        "image": {
+          "image": {
+            "src": "img/offers/rec-sys/e-invoicing/desktop@1x.png",
+            "srcset": {
+              "2x": "img/offers/rec-sys/e-invoicing/desktop@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/e-invoicing/desktop@1x.webp",
+                "2x": "img/offers/rec-sys/e-invoicing/desktop@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/e-invoicing/tablet@1x.png",
+                "2x": "img/offers/rec-sys/e-invoicing/tablet@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/offers/rec-sys/e-invoicing/tablet@1x.webp",
+                "2x": "img/offers/rec-sys/e-invoicing/tablet@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "stateSupport": {
+    "isVisible": false,
+    "title": "Господдержка малого бизнеса 2021",
+    "cards": [
+      {
+        "title": "Кредит по&nbsp;ставке&nbsp;3%",
+        "text": ["Узнайте, соответствует ли ваш бизнес условиям программы"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/restr#gp3",
+        "target": "_self",
+        "isDefaultCard": true,
+        "image": {
+          "image": {
+            "src": "img/state-support/credit_desktop_@1x.png",
+            "srcset": {
+              "2x": "img/state-support/credit_desktop_@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/state-support/credit_desktop_@1x.webp",
+                "2x": "img/state-support/credit_desktop_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/state-support/credit_tablet_@1x.png",
+                "2x": "img/state-support/credit_tablet_@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/state-support/credit_tablet_@1x.webp",
+                "2x": "img/state-support/credit_tablet_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Другие виды господдержки",
+        "text": ["Выберите подходящий вариант"],
+        "url": "https://www.sberbank.ru/ru/s_m_business/gospodderjka",
+        "target": "_self",
+        "isDefaultCard": true,
+        "image": {
+          "image": {
+            "src": "img/state-support/gospodderzhka_desktop_@1x.png",
+            "srcset": {
+              "2x": "img/state-support/gospodderzhka_desktop_@2x.png"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/state-support/gospodderzhka_desktop_@1x.webp",
+                "2x": "img/state-support/gospodderzhka_desktop_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(min-width: 1025px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/state-support/gospodderzhka_tablet_@1x.png",
+                "2x": "img/state-support/gospodderzhka_tablet_@2x.png"
+              },
+              "type": "image/png",
+              "media": "(max-width: 1024px)"
+            },
+            {
+              "srcset": {
+                "1x": "img/state-support/gospodderzhka_tablet_@1x.webp",
+                "2x": "img/state-support/gospodderzhka_tablet_@2x.webp"
+              },
+              "type": "image/webp",
+              "media": "(max-width: 1024px)"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "businessSolution": {
+    "title": "Решения для бизнеса",
+    "tabs": [
+      {
+        "isHidden": false,
+        "title": "Начать бизнес",
+        "inner": [
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Открыть бизнес от&nbsp;0&nbsp;₽",
+            "subtitle": "Проконсультируем и&nbsp;поможем открыть&nbsp;ИП или ООО с&nbsp;одним учредителем",
+            "url": "https://www.sberbank.ru/ru/s_m_business/reg",
+            "image": {
+              "image": {
+                "src": "img/tabs/start_business/registraciya.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/start_business/registraciya.webp",
+                    "2x": "img/tabs/start_business/registraciya.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Открыть кооператив онлайн",
+            "subtitle": "Поможем сформировать документы и&nbsp;отправим их&nbsp;в&nbsp;ФНС",
+            "url": "https://www.sberbank.ru/ru/s_m_business/coop/opening",
+            "image": {
+              "image": {
+                "src": "img/tabs/kooperativ/kooperativ_online.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/kooperativ/kooperativ_online_1x.webp",
+                    "2x": "img/tabs/kooperativ/kooperativ_online_2x.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Открыть первый счёт ИП",
+            "subtitle": "По трём документам не&nbsp;выходя из&nbsp;дома",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/dos",
+            "image": {
+              "image": {
+                "src": "img/tabs/start_business/dos.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/start_business/dos.webp",
+                    "2x": "img/tabs/start_business/dos.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "isHidden": false,
+        "title": "Открыть счёт",
+        "inner": [
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Приедем и&nbsp;откроем расчётный счёт",
+            "subtitle": "Подготовим документы и&nbsp;встретимся в&nbsp;удобное для вас время",
+            "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts/vkm",
+            "image": {
+              "image": {
+                "src": "img/tabs/open_account/vkm.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/open_account/vkm.webp",
+                    "2x": "img/tabs/open_account/vkm.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Открыть счёт&nbsp;ИП онлайн",
+            "subtitle": "Дистанционное открытие первого счёта индивидуального предпринимателя",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/dos",
+            "image": {
+              "image": {
+                "src": "img/tabs/open_account/open_account@2x.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/open_account/open_account@2x.webp",
+                    "2x": "img/tabs/open_account/open_account@2x.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Бонусы от&nbsp;партнёров банка",
+            "subtitle": "Скидки и&nbsp;специальные условия для новых клиентов",
+            "url": "https://www.sberbank.ru/ru/s_m_business/my#bonuses",
+            "image": {
+              "image": {
+                "src": "img/tabs/open_account/bonuses.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/open_account/bonuses.webp",
+                    "2x": "img/tabs/open_account/bonuses.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "isHidden": false,
+        "title": "Привлечь средства",
+        "inner": [
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Онлайн-кредит для бизнеса",
+            "subtitle": "Деньги на счёте — от 3 минут. Выдача 24/7",
+            "url": "https://www.sberbank.ru/ru/s_m_business/onlinecredit",
+            "image": {
+              "image": {
+                "src": "img/tabs/get_assets/podberite_1.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/get_assets/podberite_1.webp",
+                    "2x": "img/tabs/get_assets/podberite_1.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Кредитная бизнес-карта",
+            "subtitle": "100 дней льготного периода без процентов, лимит до 1 млн ₽ без залога",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/credit-businesscards",
+            "image": {
+              "image": {
+                "src": "img/tabs/get_assets/kbk.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/get_assets/kbk.webp",
+                    "2x": "img/tabs/get_assets/kbk.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Банковская гарантия",
+            "subtitle": "Обеспечение исполнения вашей компанией обязательств по сделке",
+            "url": "https://www.sberbank.ru/ru/s_m_business/credits/warranty",
+            "image": {
+              "image": {
+                "src": "img/tabs/get_assets/bankovskaya.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/get_assets/bankovskaya.webp",
+                    "2x": "img/tabs/get_assets/bankovskaya.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "isHidden": false,
+        "title": "Приём оплаты",
+        "inner": [
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Приём безналичной оплаты",
+            "subtitle": "Принимайте оплату по&nbsp;картам и&nbsp;получайте деньги на&nbsp;счёт в&nbsp;любом банке",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total",
+            "image": {
+              "image": {
+                "src": "img/tabs/acquiring/acquiring.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/acquiring/acquiring.webp",
+                    "2x": "img/tabs/acquiring/acquiring.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Онлайн-касса и&nbsp;эквайринг в&nbsp;одном",
+            "subtitle": "Компактное устройство для приёма оплаты по&nbsp;картам, наличными и&nbsp;товароучёта",
+            "url": "https://www.sberbank.ru/ru/s_m_business/smartpos",
+            "image": {
+              "image": {
+                "src": "img/tabs/acquiring/2v1_1.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/acquiring/2v1_1.webp",
+                    "2x": "img/tabs/acquiring/2v1_1.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Всё о&nbsp;приёме платежей",
+            "subtitle": "Помогаем разобраться в&nbsp;видах эквайринга и&nbsp;выбрать онлайн-кассу",
+            "url": "https://www.sberbank.ru/ru/s_m_business/pro_business/special/acquiring/",
+            "image": {
+              "image": {
+                "src": "img/tabs/acquiring/specproekt@2x.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/acquiring/specproekt@2x.webp",
+                    "2x": "img/tabs/acquiring/specproekt@2x.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "isHidden": false,
+        "title": "Подключить сервисы",
+        "inner": [
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Инкассация для бизнеса",
+            "subtitle": "Зачисляем наличные на&nbsp;счёт любого банка по&nbsp;одному тарифу",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/inkass",
+            "image": {
+              "image": {
+                "src": "img/tabs/setup_services/inkassaciya.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/setup_services/inkassaciya.webp",
+                    "2x": "img/tabs/setup_services/inkassaciya.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Комплаенс-помощник",
+            "subtitle": "Анализ операций по&nbsp;счетам за&nbsp;12&nbsp;месяцев и&nbsp;мониторинг рисков по&nbsp;115-ФЗ",
+            "url": "https://www.sberbank.ru/ru/s_m_business/nbs/compliance",
+            "image": {
+              "image": {
+                "src": "img/tabs/setup_services/komplaens.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/setup_services/komplaens.webp",
+                    "2x": "img/tabs/setup_services/komplaens.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          },
+          {
+            "isHidden": false,
+            "stock": false,
+            "title": "Дебетовая бизнес-карта",
+            "subtitle": "Получите круглосуточный доступ к&nbsp;средствам на&nbsp;своём расчётном счёте",
+            "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/corporatecards",
+            "image": {
+              "image": {
+                "src": "img/tabs/setup_services/cifrovaya_1.jpg"
+              },
+              "sources": [
+                {
+                  "srcset": {
+                    "1x": "img/tabs/setup_services/cifrovaya_1.webp",
+                    "2x": "img/tabs/setup_services/cifrovaya_1.webp"
+                  },
+                  "type": "image/webp"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "usefulArticles": {
+    "title": "Полезные статьи",
+    "articles": [
+      {
+        "image": {
+          "image": {
+            "src": "img/articles/useful/biznes-v-internete@1x.jpg",
+            "srcset": {
+              "2x": "img/articles/useful/biznes-v-internete@2x.jpg"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/articles/useful/biznes-v-internete@1x.webp",
+                "2x": "img/articles/useful/biznes-v-internete@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        },
+        "time": "Статья, 8 минут",
+        "description": "Бизнес в&nbsp;интернете",
+        "url": "https://www.sberbank.ru/ru/s_m_business/pro_business/biznes-v-internete-kak-nachat-s-nulja-svoe-delo/"
+      },
+      {
+        "image": {
+          "image": {
+            "src": "img/articles/useful/kak-poluchit-biznes-kredit@1x.jpg",
+            "srcset": {
+              "2x": "img/articles/useful/kak-poluchit-biznes-kredit@2x.jpg"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/articles/useful/kak-poluchit-biznes-kredit@1x.webp",
+                "2x": "img/articles/useful/kak-poluchit-biznes-kredit@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        },
+        "time": "Статья, 8 минут",
+        "description": "Деньги для дела: как получить бизнес-кредит",
+        "url": "https://www.sberbank.ru/ru/s_m_business/pro_business/kak-poluchit-biznes-kredit-na-otkrytie-biznesa/"
+      },
+      {
+        "image": {
+          "image": {
+            "src": "img/articles/useful/kak-vybrat-onlajn-kassu@1x.jpg",
+            "srcset": {
+              "2x": "img/articles/useful/kak-vybrat-onlajn-kassu@2x.jpg"
+            }
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/articles/useful/kak-vybrat-onlajn-kassu@1x.webp",
+                "2x": "img/articles/useful/kak-vybrat-onlajn-kassu@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        },
+        "time": "Статья, 10 минут",
+        "description": "Как выбрать онлайн-кассу",
+        "url": "https://www.sberbank.ru/ru/s_m_business/pro_business/kak-vybrat-onlajn-kassu-i-pomoch-svoemu-biznesu/"
+      }
+    ],
+    "mainArticle": {
+      "image": {
+        "image": {
+          "src": "img/articles/useful/tsyfrovaya-kassa@1x.jpg",
+          "srcset": {
+            "2x": "img/articles/useful/tsyfrovaya-kassa@2x.jpg"
+          }
+        },
+        "sources": [
+          {
+            "srcset": {
+              "1x": "img/articles/useful/tsyfrovaya-kassa@1x.webp",
+              "2x": "img/articles/useful/tsyfrovaya-kassa@2x.webp"
+            },
+            "type": "image/webp"
+          }
+        ]
+      },
+      "time": "Статья, 6 минут",
+      "title": "Что такое облачная касса и&nbsp;кому она нужна",
+      "url": "https://www.sberbank.ru/ru/s_m_business/pro_business/chto-takoe-tsyfrovaya-kassa/"
+    }
+  },
+  "additionalServices": {
+    "title": "Полезные сервисы",
+    "list": [
+      {
+        "title": "Юрист для бизнеса",
+        "subtitle": "Круглосуточная поддержка внештатного юриста",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/lawyer",
+        "icon": {
+          "image": {
+            "src": "img/services/urist.png"
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/services/urist.webp",
+                "2x": "img/services/urist@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Зарплатный проект",
+        "subtitle": "Ваши сотрудники будут получать зарплату в&nbsp;любой день без выходных",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/salaryproject",
+        "icon": {
+          "image": {
+            "src": "img/services/zarplata.png"
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/services/zarplata.webp",
+                "2x": "img/services/zarplata@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Справочный центр для бизнеса",
+        "subtitle": "Ответы на&nbsp;вопросы по&nbsp;продуктам и&nbsp;услугам банка",
+        "url": "https://www.sberbank.ru/help/business",
+        "icon": {
+          "image": {
+            "src": "img/services/informaciya.png"
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/services/informaciya.webp",
+                "2x": "img/services/informaciya@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Как избежать ограничения операций по&nbsp;счёту",
+        "subtitle": "Что нужно знать о&nbsp;115-ФЗ: инструкции, разбор ошибок и&nbsp;рекомендации",
+        "url": "https://www.sberbank.ru/ru/s_m_business/compliance",
+        "icon": {
+          "image": {
+            "src": "img/services/blokirovka.png"
+          },
+          "sources": [
+            {
+              "srcset": {
+                "1x": "img/services/blokirovka.webp",
+                "2x": "img/services/blokirovka@2x.webp"
+              },
+              "type": "image/webp"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

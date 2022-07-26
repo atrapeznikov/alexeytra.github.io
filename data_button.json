@@ -1,0 +1,429 @@
+{
+  "header": {
+    "title": "Интернет-банк СберБизнес",
+    "button": {
+      "text": "Войти в банк",
+      "href": "https://sbi.sberbank.ru:9443/ic/dcb/?#/?_k=071nwb"
+    },
+    "link": {
+      "text": "Демодоступ",
+      "href": "https://sbi.sberbank.ru:9444/ic/dcb/login.html?demoMode&amp;version=3.0"
+    }
+  },
+  "newOffers": {
+    "title": "Специально для вас",
+    "colors": [
+      "linear-gradient(92.11deg, #198CFE 3.56%, #47A3FE 96.44%)",
+      "linear-gradient(36deg, #31C2A7 0%, #21A19A 0.01%, #5ACEB9 98.78%)",
+      "linear-gradient(92.11deg, #7F67E1 3.56%, #9F8DE8 96.44%)",
+      "linear-gradient(92.11deg, rgb(185 185 185) 3.56%, rgb(144 144 144) 96.44%)"
+    ],
+    "bannerPicture": {
+      "image": {
+        "src": "assets/images/banner/banner.png",
+        "srcset": {
+          "2x": "assets/images/banner/banner@2x.png"
+        }
+      },
+      "sources": [
+        {
+          "srcset": {
+            "1x": "assets/images/banner/banner.webp",
+            "2x": "assets/images/banner/banner@2x.webp"
+          },
+          "type": "image/webp",
+          "media": "(min-width: 1025px)"
+        }
+      ]
+    },
+    "cutResponseOffers": null,
+    "cacheRequestInMinutes": 60,
+    "debugMode": {
+      "showDefaultCards": true,
+      "isShowCardFromData": false,
+      "cardIndexToShow": 0,
+      "isGetMockRecSysData": false,
+      "testCookieId": ""
+    },
+    "defaultCards": [
+      {
+        "id": "1-HLPSULB",
+        "title": "Выпустите кредитную бизнес-карту",
+        "text": "Льготный период 100&nbsp;дней, лимит до&nbsp;1&nbsp;млн ₽&nbsp;без залога",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/credit-businesscards",
+        "target": "_self",
+        "buttonText": "Заказать карту"
+      },
+      {
+        "id": "1-1GUC",
+        "title": "Приём платежей по&nbsp;картам",
+        "text": "Комиссия для торговых точек&nbsp;&mdash; от&nbsp;1,6%",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total",
+        "target": "_self",
+        "buttonText": "Подробные условия"
+      },
+      {
+        "id": "1-1GW0",
+        "title": "Подключите зарплатный проект",
+        "text": "Выплачивайте зарплату в&nbsp;любой день, без выходных",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/salaryproject",
+        "target": "_self",
+        "buttonText": "Подключить"
+      }
+    ],
+    "cards": [
+      {
+        "id": "1-ZIV01",
+        "title": "Откройте структурный депозит",
+        "text": "Получите повышенную доходность",
+        "url": "https://www.sberbank.ru/ru/legal/investments/structured-deposits",
+        "target": "_self",
+        "buttonText": "Узнать больше"
+      },
+      {
+        "id": "1-ZM4RU",
+        "title": "Откройте аккредитив",
+        "text": "Защитите сделку по&nbsp;покупке товаров, услуг, акций или недвижимости",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/loc",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-RU49NL6",
+        "title": "Оформите премиальную бизнес-карту Mastercard",
+        "text": "Повышенный лимит на&nbsp;снятие наличных, кешбэк баллами за&nbsp;каждую покупку и&nbsp;другие привилегии",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/premium-businesscards-master",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-1GT0",
+        "title": "Откройте депозит",
+        "text": "С возможностью отзыва или пополнения",
+        "url": "https://www.sberbank.ru/ru/s_m_business/assetsandinvestment/assets",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-1GXO",
+        "title": "Закажите инкассацию",
+        "text": "Тариф зависит только от&nbsp;региона, нет скрытых комиссий и&nbsp;платежей",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/inkass",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-294EQR2Y",
+        "title": "Проверьте рейтинг своей компании",
+        "text": "Оценка бизнеса с&nbsp;точки зрения банка, финмониторинга и&nbsp;службы безопасности",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/rating-ul",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-HGDJ1PU",
+        "title": "Проверьте контрагента",
+        "text": "Оценка контрагента на&nbsp;благонадёжность по&nbsp;официальным источникам",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/spk",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-2G9R4LPG",
+        "title": "Снизьте свой риск блокировки счёта",
+        "text": "Проверьте бизнес по&nbsp;ключевым показателям и&nbsp;получите рекомендации",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sberrating/safe-business",
+        "target": "_self",
+        "buttonText": "Снизить риски"
+      },
+      {
+        "id": "1-2BR3HABO",
+        "title": "Проверьте бизнес по 115-ФЗ",
+        "text": "Полный отчёт по&nbsp;деятельности бизнеса в&nbsp;соответствии с&nbsp;115-ФЗ и&nbsp;персональная консультация",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/compliance",
+        "target": "_self",
+        "buttonText": "Заказать отчёт"
+      },
+      {
+        "id": "1-JNGIYCX",
+        "title": "Управляйте складом онлайн",
+        "text": "Управляйте закупками, остатками и&nbsp;ценами, интегрируйте сервис с&nbsp;онлайн-кассами",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/moya_torgovlya",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-V0897WV",
+        "title": "Откройте счёт для участия в&nbsp;закупках",
+        "text": "Без комиссии в&nbsp;день подачи заявки",
+        "url": "https://www.sberbank.ru/ru/legal/bankingservice/cash/bs_uchastnika_zakupok",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-DAFHYND",
+        "title": "Ведите бухгалтерию онлайн",
+        "text": "Выберите подходящий онлайн-сервис для подготовки отчётности",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-JY0CNWQ",
+        "title": "Бухгалтерия для&nbsp;ИП на&nbsp;УСН&nbsp;6%",
+        "text": "Подготовка документов по&nbsp;нужным реквизитам, вам — только подтвердить отправку",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-DDP18DU",
+        "title": "Бухгалтерия на аутсорсе",
+        "text": "Доверьте ведение бухгалтерии команде профессионалов",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/accounting",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-28U0CTPQ",
+        "title": "Заказывайте товары для бизнеса",
+        "text": "Доставка продуктов, канцелярии или товаров для уборки от&nbsp;СберМаркета",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/sbermarket",
+        "target": "_self",
+        "buttonText": "Узнать подробнее"
+      },
+      {
+        "id": "1-JNGJROI",
+        "title": "Арендуйте онлайн-кассу Эвотор",
+        "text": "Готовое решение для приёма платежей",
+        "url": "https://www.sberbank.ru/ru/s_m_business/kassa/rent",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-ASDFAMH",
+        "title": "Купите онлайн-кассу Эвотор",
+        "text": "Соберите комплект для приёма платежей: кассу, фискальный накопитель, сканер и&nbsp;терминал",
+        "url": "https://www.sberbank.ru/ru/s_m_business/kassa/buy",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-MP71XI8",
+        "title": "Обратитесь к&nbsp;юристу для бизнеса",
+        "text": "Устные и&nbsp;письменные консультации без ограничения по&nbsp;времени 24/7",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/lawyer",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-3WO632R4",
+        "title": "Защитите бизнес от&nbsp;экологических рисков",
+        "text": "Для компаний, чья работа тесно связана с&nbsp;экологией",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#green-umbrella",
+        "target": "_self",
+        "buttonText": "Оформить страховку"
+      },
+      {
+        "id": "1-485Z88VO",
+        "title": "Защитите бизнес и&nbsp;персонал",
+        "text": "Комплексное страхование предприятия и&nbsp;жизни сотрудников",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#defense360",
+        "target": "_self",
+        "buttonText": "Оформить страховку"
+      },
+      {
+        "id": "1-1SXY20EP",
+        "title": "Защитите автомобиль",
+        "text": "Оформление КАСКО онлайн и&nbsp;без осмотра",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#kasko",
+        "target": "_self",
+        "buttonText": "Оформить страховку"
+      },
+      {
+        "id": "1-ZYQO0PN",
+        "title": "Защитите оборудование и&nbsp;имущество",
+        "text": "Страхование от&nbsp;кражи, пожара и&nbsp;стихийных бедствий",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#savebusiness",
+        "target": "_self",
+        "buttonText": "Оформить страховку"
+      },
+      {
+        "id": "1-115HHZC",
+        "title": "Откройте расчётный счёт за&nbsp;0&nbsp;₽",
+        "text": "Без посещения офиса банка",
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "_self",
+        "buttonText": "Оставить заявку"
+      },
+      {
+        "id": "1-1SXY20DC",
+        "title": "Защитите свои достижения",
+        "text": "Консультация при блокировке счёта и&nbsp;компенсация доходов",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance#success",
+        "target": "_self",
+        "buttonText": "Оформить страховку"
+      },
+      {
+        "id": "1-HLPSUHX",
+        "title": "Всё для начала бизнеса за&nbsp;0&nbsp;₽",
+        "text": "Переводы физлицам до&nbsp;300&nbsp;000&nbsp;₽ без комиссии для&nbsp;ИП, бесплатные консультации юриста и&nbsp;другое",
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "_self",
+        "buttonText": "Узнать больше"
+      },
+      {
+        "id": "1-2AWV1IFT",
+        "title": "Тем, кто вырос из&nbsp;&laquo;Лёгкого старта&raquo;",
+        "text": "Включено до&nbsp;15&nbsp;платежей юрлицам в&nbsp;другие банки, самоинкассация, бесплатные СМС",
+        "url": "https://www.sberbank.ru/ru/s_m_business/open-accounts",
+        "target": "_self",
+        "buttonText": "Уточнить условия"
+      },
+      {
+        "id": "1-1GUC",
+        "title": "Приём платежей по&nbsp;картам",
+        "text": "Комиссия для торговых точек&nbsp;&mdash; от&nbsp;1,6%",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/acquiring_total",
+        "target": "_self",
+        "buttonText": "Подробные условия"
+      },
+      {
+        "id": "1-115HHYO",
+        "title": "Выпустите бизнес-карту",
+        "text": "Для сотрудников, оплаты любых расходов бизнеса или с&nbsp;повышенным кешбэком",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/business_cards",
+        "target": "_self",
+        "buttonText": "Заказать карту"
+      },
+      {
+        "id": "1-1GVC",
+        "title": "Подайте заявку на&nbsp;оборотный кредит",
+        "text": "По&nbsp;минимальной ставке&nbsp;12% на&nbsp;сумму от&nbsp;100&nbsp;000&nbsp;₽",
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/oborot/",
+        "target": "_self",
+        "buttonText": "Подать заявку"
+      },
+      {
+        "id": "1-1GVO",
+        "title": "Получите банковскую гарантию",
+        "text": "Решение&nbsp;&mdash; от&nbsp;3&nbsp;минут на&nbsp;сумму до&nbsp;50&nbsp;млн&nbsp;₽",
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/warranty",
+        "target": "_self",
+        "buttonText": "Получить гарантию"
+      },
+      {
+        "id": "1-HLPSULB",
+        "title": "Выпустите кредитную бизнес-карту",
+        "text": "Льготный период 100&nbsp;дней, лимит до&nbsp;1&nbsp;млн ₽&nbsp;без залога",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/credit-businesscards",
+        "target": "_self",
+        "buttonText": "Заказать карту"
+      },
+      {
+        "id": "1-1EAUI3HB",
+        "title": "Откройте валютный счёт",
+        "text": "Работайте с&nbsp;Китаем и&nbsp;получайте льготный валютный контроль",
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/currency_account",
+        "target": "_self",
+        "buttonText": "Подробнее"
+      },
+      {
+        "id": "1-79LMUVD",
+        "title": "Оформите факторинг",
+        "text": "Решение по&nbsp;сделке для поставщиков за&nbsp;7&nbsp;часов, отсрочка для покупателей до&nbsp;200 дней",
+        "url": "https://www.sberbank.ru/ru/s_m_business/credits/factoring",
+        "target": "_self",
+        "buttonText": "Оформить факторинг"
+      },
+      {
+        "id": "1-1GW0",
+        "title": "Подключите зарплатный проект",
+        "text": "Выплачивайте зарплату в&nbsp;любой день, без выходных",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/cards/salaryproject",
+        "target": "_self",
+        "buttonText": "Подключить"
+      },
+      {
+        "id": "1-115HHZO",
+        "title": "Оформите лизинг",
+        "text": "Решение за&nbsp;8&nbsp;часов без финансовых документов, дополнительный залог не&nbsp;требуется",
+        "url": "https://www.sberbank.ru/ru/s_m_business/products/leasing",
+        "target": "_self",
+        "buttonText": "Оформить лизинг"
+      },
+      {
+        "id": "1-415WQ1A",
+        "title": "Оформите страховку",
+        "text": "Защитите свой бизнес, своих сотрудников, семью, здоровье или машину. Выплаты до&nbsp;15&nbsp;млн&nbsp;₽",
+        "url": "https://www.sberbank.ru/ru/s_m_business/insurance",
+        "target": "_self",
+        "buttonText": "Застраховаться"
+      },
+      {
+        "id": "1-ZYQP07F",
+        "title": "Получите медицинскую консультацию",
+        "text": "Онлайн и&nbsp;очные приёмы от&nbsp;3600&nbsp;₽ в&nbsp;год. Для вас и&nbsp;сотрудников",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/docdoc",
+        "target": "_self",
+        "buttonText": "Застраховаться"
+      },
+      {
+        "id": "1-1GU0",
+        "title": "Откройте валютный счёт",
+        "text": "И&nbsp;обменивайте валюту по&nbsp;льготному курсу. Пакет услуг ВЭД за&nbsp;3990&nbsp;₽ в&nbsp;месяц",
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/currency_account",
+        "target": "_self",
+        "buttonText": "Подробнее"
+      },
+      {
+        "id": "1-18TQ56RU",
+        "title": "Подключите опцию к&nbsp;рублёвому счёту",
+        "text": "Валютный контроль исходящих платежей на&nbsp;250&nbsp;000&nbsp;₽ без минимальной комиссии за&nbsp;каждый платёж",
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/ved_roubles",
+        "target": "_self",
+        "buttonText": "Подробнее"
+      },
+      {
+        "id": "1-1M43N7R",
+        "title": "Получите бесплатную консультацию по&nbsp;ВЭД",
+        "text": "Ответим на&nbsp;все вопросы, поможем разобраться в&nbsp;законах и&nbsp;правилах ведения международного бизнеса",
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved/consultation",
+        "target": "_self",
+        "buttonText": "Подать заявку"
+      },
+      {
+        "id": "1-7KK7FQ",
+        "title": "Выберите решение для ВЭД",
+        "text": "Откройте расчётный счёт в&nbsp;валюте, подключите пакет услуг, валютный контроль или другие услуги",
+        "url": "https://www.sberbank.ru/ru/s_m_business/ved",
+        "target": "_self",
+        "buttonText": "Выбрать"
+      },
+      {
+        "id": "1-1CA6IU4Y",
+        "title": "Найдите сотрудников на&nbsp;Работе.ру",
+        "text": "Размещайте одну вакансию, меняйте и&nbsp;редактируйте её&nbsp;без ограничений",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/rabota",
+        "target": "_self",
+        "buttonText": "Подробнее"
+      },
+      {
+        "id": "1-115ER0K",
+        "title": "Настройте самоинкассацию",
+        "text": "Вносите наличные на&nbsp;расчётный счёт в&nbsp;банкомате СберБанка по&nbsp;логину и&nbsp;паролю",
+        "url": "https://www.sberbank.ru/ru/s_m_business/bankingservice/rko/cash",
+        "target": "_self",
+        "buttonText": "Подробнее"
+      },
+      {
+        "id": "1-1OA43KI",
+        "title": "Подключите электронный документооборот",
+        "text": "Заполняйте квитанции по&nbsp;одному клику, работайте с&nbsp;маркировкой и&nbsp;документами для налоговой",
+        "url": "https://www.sberbank.ru/ru/s_m_business/nbs/e-invoicing",
+        "target": "_self",
+        "buttonText": "Подключить"
+      }
+    ]
+  }
+}
