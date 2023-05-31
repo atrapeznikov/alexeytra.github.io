@@ -31,7 +31,20 @@
 if (document.readyState !== 'loading') {
 us_sendMerticsByClickOnExternalLink();
 } else {
-document.addEventListener('DOMContentLoaded', us_sendMerticsByClickOnExternalLink);
+document.addEventListener('DOMContentLoaded', () => {
+var links = document.querySelectorAll('[href="https://botshop.bitrix24.shop/"]');
+Array.prototype.forEach.call(links, function (link) {
+link.addEventListener('click', function () {
+var url = link.getAttribute('href');
+yaCounter31643078.reachGoal('SATELLITE_sberbb_click_link_Протестировать_на_сайте');
+if (url && url.indexOf('http://') !== -1) {
+setTimeout(function () {
+window.location.href = url;
+}, 500);
+}
+});
+});
+});
 }
 function us_sendMerticsByClickOnExternalLink() {
 var links = document.querySelectorAll('[href="https://botshop.bitrix24.shop/"]');
