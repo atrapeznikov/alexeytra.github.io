@@ -8,103 +8,6 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="/style.css">
     <script src="/main.js"></script>
-	<script>
-	  /*document.addEventListener('DOMContentLoaded', () => {
-    var observer = new MutationObserver((mutationsList, observer) => {
-      for (var mutation of mutationsList) {
-        if (mutation.type === 'childList' && mutation.addedNodes.length > 0) {
-          mutation.addedNodes.forEach(node => {
-            if (node.classList && node.classList.contains('t-form-success-popup')) {
-        yaCounter31643078.reachGoal(
-          'SATELLITE_sberbb_submit_form_popup');
-          }
-          });
-      }
-      }
-    });
-    
-    var config = {childList: true, subtree: true};
-    observer.observe(document.body, config);
-  });*/
-		
-//Сбер Бизнес Бот - Клик "Протестировать на сайте"
-if (document.readyState !== 'loading') {
-us_sendMerticsByClickOnExternalLink();
-} else {
-document.addEventListener('DOMContentLoaded', () => {
-var links = document.querySelectorAll('[href="https://botshop.bitrix24.shop/"]');
-Array.prototype.forEach.call(links, function (link) {
-link.addEventListener('click', function () {
-var url = link.getAttribute('href');
-yaCounter31643078.reachGoal('SATELLITE_sberbb_click_link_Протестировать_на_сайте');
-if (url && url.indexOf('http://') !== -1) {
-setTimeout(function () {
-window.location.href = url;
-}, 500);
-}
-});
-});
-});
-}
-function us_sendMerticsByClickOnExternalLink() {
-var links = document.querySelectorAll('[href="https://botshop.bitrix24.shop/"]');
-Array.prototype.forEach.call(links, function (link) {
-link.addEventListener('click', function () {
-var url = link.getAttribute('href');
-yaCounter31643078.reachGoal('SATELLITE_sberbb_click_link_Протестировать_на_сайте');
-if (url && url.indexOf('http://') !== -1) {
-setTimeout(function () {
-window.location.href = url;
-}, 500);
-}
-});
-});
-}
-
-//Сбер Бизнес Бот - Клик "Протестировать в Telegram"
-if (document.readyState !== 'loading') {
-us_sendMerticsByClickOnExternalLink();
-} else {
-document.addEventListener('DOMContentLoaded', us_sendMerticsByClickOnExternalLink);
-}
-function us_sendMerticsByClickOnExternalLink() {
-var links = document.querySelectorAll('[href="https://t.me/sberbb_shop_bot"]');
-Array.prototype.forEach.call(links, function (link) {
-link.addEventListener('click', function () {
-var url = link.getAttribute('href');
-yaCounter31643078.reachGoal('SATELLITE_sberbb_click_link_Протестировать_в_Телеграм');
-if (url && url.indexOf('http://') !== -1) {
-setTimeout(function () {
-window.location.href = url;
-}, 500);
-}
-});
-});
-}
-
-//Сбер Бизнес Бот - Клик "Войти/Зарегистрироваться"
- if (document.readyState !== 'loading') {
-    us_sendMerticsByClickOnExternalLink();
-  } else {
-    document.addEventListener('DOMContentLoaded', us_sendMerticsByClickOnExternalLink);
-  }
-  function us_sendMerticsByClickOnExternalLink() {
-    var links = document.querySelectorAll('[href="/auth"]');
-    Array.prototype.forEach.call(links, function (link) {
-      link.addEventListener('click', function () {
-        var url = link.getAttribute('href');
-        if (window.mainMetrikaId !== undefined) {
-          yaCounter31643078.reachGoal('SATELLITE_sberbb_click_site_Войти');
-        }
-        if (url && url.indexOf('http://') !== -1) {
-          setTimeout(function () {
-            window.location.href = url;
-          }, 500);
-        }
-      });
-    });
-  }
-	</script>
 	
 	<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -115,21 +18,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 
-	<!-- Sber Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'stm.start':
-new Date().getTime(),event:'stm_init'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://tvldw-sbc000001.delta.sbrf.ru/stm/container/'+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','STM-CAZ3S279.js');</script>
-<!-- End Sber Tag Manager -->
-	
 <!-- Sber Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'stm.start':
 new Date().getTime(),event:'stm_init'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://tvldw-sbc000005.delta.sbrf.ru/stm/container/'+i+'.js';
+'https://tvldw-sbc000001.delta.sbrf.ru/stm/container/'+i+'.js';
 f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','STM-C3XDJ158');</script>
+})(window,document,'script','dataLayer','STM-UDXJL833');</script>
 <!-- End Sber Tag Manager -->
 
 	
